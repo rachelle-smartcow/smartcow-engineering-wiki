@@ -14,3 +14,5 @@ description: >-
 | Alberto     | Senior Full Stack Engineer | Full Stack | Milan     |
 | Rachelle    | Front End Engineer         | Front End  | Singapore |
 | Alessandro  | Front End Engineer         | Front End  | Dublin    |
+
+![](https://preview.redd.it/h8uhxvhurdh51.jpg?auto=webp\&s=fc65bcbcddb5e28325c09ad7de5efdb5a938e206)

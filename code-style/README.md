@@ -8,13 +8,11 @@ Check style by running:
 
 ### Coding Standards
 
-Coding standards ensure that all developers working on a project are following the same set of specified guidelines to produce concise, maintainable code.&#x20;
+Coding standards ensure that all developers working on a project are following the same set of specified guidelines to produce concise, maintainable code.
 
 * simple, clean, readable
 * modular / component approach - always consider reusability and portability
 * one method, one thing
 * progressive enhancement - consider performance on different devices
-* CSS naming conventions - we use [BEM](http://getbem.com/naming/) structure
 
-
-
+![](../.gitbook/assets/5a17575c-0a65-4edd-b64b-abe6ab85d4b5.jpg)
