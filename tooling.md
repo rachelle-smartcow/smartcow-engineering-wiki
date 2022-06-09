@@ -6,34 +6,44 @@ description: >-
 
 # 🔧 Tooling
 
-### Project Setup&#x20;
+### Project Setup
 
-We use React with Typescript for our frontend codebase.&#x20;
+We use React with Typescript for our frontend codebase.
 
-* Webpack (bundler)
-* Babel (compiler)
-* Yarn (package manager)
-* ESLint (linting)&#x20;
-* React Query (data management)
-* Styled Components (modular CSS components)
-* ANTD (design library)
-* Prettier (code formatting)
-
-#### API Documentation&#x20;
+#### API Documentation
 
 We use the following tools to provide API documentation to both internal and external users of our services.
 
 * Swagger Docs
 
-#### Automated Testing
-
-We use the following tooling to automatically and manually test code.
+**Automated Testing**
 
 * Storybook
 * Jest
 
-#### Dependency Management
+**Bundler**
 
-We use the following dependency management systems to pull in dependencies from third parties.
+* Webpack
+
+**Coding Standards**
+
+* ESLint
+
+**CSS Library**
+
+* Styled Components - we use component level styles in our applications
+* ANT Design - our [design library](https://www.figma.com/file/8hrolMjPHDNQMnWCIaMVZq/SmartCow-DLS-V2.0?node-id=1350%3A32290) is based off of ANTD components
+
+**Data Management**
+
+* Redux/ Redux Saga&#x20;
+* React Query - we are moving towards using RQuery to handle our data
+
+**Dependency Management**
 
 * Yarn
+
+**Formatting**
+
+* Prettier
+
