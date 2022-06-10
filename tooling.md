@@ -23,6 +23,7 @@ We use the following tools to provide API documentation to both internal and ext
 
 **Bundler**
 
+* Vite
 * Webpack
 
 **Coding Standards**
@@ -42,6 +43,7 @@ We use the following tools to provide API documentation to both internal and ext
 **Dependency Management**
 
 * Yarn
+* NPM
 
 **Formatting**
 
