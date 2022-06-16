@@ -5,5 +5,6 @@
 * [🔧 Tooling](tooling.md)
 * [🔁 Development Lifecycle](development-lifecycle.md)
 * [📔 Code Style](code-style/README.md)
+  * [🖥 Vite](code-style/vite.md)
   * [🖨 ESLint](code-style/eslint.md)
   * [📼 TSConfig](code-style/tsconfig.md)

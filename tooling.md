@@ -23,7 +23,7 @@ We use the following tools to provide API documentation to both internal and ext
 
 **Bundler**
 
-* Vite
+* Vite (smaller bundle size, loads fast with HMR)
 * Webpack
 
 **Coding Standards**
